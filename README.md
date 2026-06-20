@@ -45,6 +45,7 @@ Analyzes 20,000+ Steam games and predicts whether a new game will be:
 
 ## 📁 Project Structure
 
+```
 steam-success-analyzer/
 ├── data/
 │   ├── raw/              # Original Kaggle dataset
@@ -58,8 +59,7 @@ steam-success-analyzer/
 ├── app.py                # Streamlit dashboard
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ##  How to Run
 
